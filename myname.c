@@ -1,4 +1,4 @@
 #include <stdio.h>
 main() {
-printf("³¯«Å§±\n");
+printf("é™³å®£å¦¤\n");
 }
